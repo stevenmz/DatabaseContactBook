@@ -1,0 +1,24 @@
+Lisedt
+Magana-Zook
+123 Fake St2
+Lathrop2
+CA2
+95331
+s@s.com
+916-555-5159
+Steven
+Magana-Zook
+123 Fake St
+Lathrop
+CA
+95330
+s@s.com
+916-555-5159
+John
+Smith
+123 Fake St2
+Lathrop2
+CA2
+95331
+s@s.com
+916-555-5159

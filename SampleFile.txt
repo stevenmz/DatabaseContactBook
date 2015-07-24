@@ -1,0 +1,40 @@
+steven
+magana-zook1
+123 fake st.
+lathrop
+ca
+94538
+s@s.com
+916-555-5159
+Sam
+magana
+123 fake st.
+lathrop
+ca
+94538
+s@s.com
+916-555-5159
+Susie
+zook1
+123 fake st.
+lathrop
+ca
+94538
+s@s.com
+916-555-5159
+John
+Smith
+123 fake st.
+lathrop
+ca
+94538
+s@s.com
+916-555-5159
+Henry
+ Steel
+        123 fake st.
+  lathrop
+     ca
+        94538
+        s@s.com
+        916-555-5159

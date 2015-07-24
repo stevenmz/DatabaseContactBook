@@ -1,0 +1,22 @@
+[Box: ::com.stevenmz.project1.domainTypes - ::com.stevenmz.project1.domainTypes::Address]
+X=225
+Y=40
+
+[Box: ::com.stevenmz.project1.domainTypes - ::com.stevenmz.project1.domainTypes::AddressBook]
+X=635
+Y=40
+
+[Box: ::com.stevenmz.project1.domainTypes - ::com.stevenmz.project1.domainTypes::AddressEntry]
+X=430
+Y=40
+
+[Box: ::com.stevenmz.project1.domainTypes - ::com.stevenmz.project1.domainTypes::Menu]
+X=20
+Y=40
+
+[Diagram: ::com.stevenmz.project1.domainTypes]
+OffsetX=0
+OffsetY=0
+Visibility=0
+ShowAssoc=1
+
