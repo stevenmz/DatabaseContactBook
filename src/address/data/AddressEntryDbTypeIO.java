@@ -28,7 +28,7 @@ public class AddressEntryDbTypeIO {
 	/**
 	 * The oracle thin driver connection url
 	 */
-	private final String connectionString = "jdbc:oracle:thin:@mcsdb1.sci.csueastbay.edu:1521:mcsdb1";
+	private final String connectionString = "jdbc:oracle:thin:@ServerURLHere:1521:InstanceHere";
 
 	/**
 	 * a "fake" password used to authenticate to the oracle database
